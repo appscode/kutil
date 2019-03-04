@@ -8,7 +8,7 @@
 # kutil
 Kubernetes client-go utils
 
-**This repo has been permanently moved to https://github.com/kmodules/client-go for Kubernetes 1.13+**
+**This repo has been permanently moved to [kmodules.xyz/client-go](https://github.com/kmodules/client-go) for Kubernetes 1.13+**
 
 ## Related Libraries
 - [Kubernetes webhook utils](https://github.com/appscode/kubernetes-webhook-util)
